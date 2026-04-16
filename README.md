@@ -1,3 +1,6 @@
+<img width="700" height="460" alt="rerender_comparison" src="https://github.com/user-attachments/assets/e462d88f-c49c-48cf-8fa1-ef3be602d04a" />
+
+
 # State Management Comparison
 
 ### Redux · Context/Provider · Zustand
